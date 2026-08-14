@@ -16,5 +16,3 @@
 
 - Delete the `node_modules` directory before packaging.
 - Use `Terser` to minify the JavaScript files.
-
-![](sshot-1.png)
